@@ -9,11 +9,11 @@ Use this as a template repository if you want:
 ## Installing with NPM
 
 ```sh
-npx create-next-app --example https://github.com/benslv/nextjs-typescript-eslint-prettier-husky
+npx create-next-app <app-name> --example https://github.com/benslv/nextjs-typescript-eslint-prettier-husky
 ```
 
 ## Installing with Yarn
 
 ```sh
-yarn create next-app --example https://github.com/benslv/nextjs-typescript-eslint-prettier-husky
+yarn create next-app <app-name> --example https://github.com/benslv/nextjs-typescript-eslint-prettier-husky
 ```
